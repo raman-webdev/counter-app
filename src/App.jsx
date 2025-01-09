@@ -23,7 +23,7 @@ const App = () => {
       setMessage('');
     }
     else{
-      setMessage('You reached minimum value i.e. 20!!');
+      setMessage('You are at minimum value i.e. 0!!');
     }
     
   }
